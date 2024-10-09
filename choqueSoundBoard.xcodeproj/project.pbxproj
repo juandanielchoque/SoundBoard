@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B4AA2EE32CB4AD6700DFADC9 /* SoundViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4AA2EE22CB4AD6700DFADC9 /* SoundViewController.swift */; };
 		B4E246E62CB493F2008EF9C2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4E246E52CB493F2008EF9C2 /* AppDelegate.swift */; };
 		B4E246E82CB493F2008EF9C2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4E246E72CB493F2008EF9C2 /* SceneDelegate.swift */; };
 		B4E246EA2CB493F2008EF9C2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4E246E92CB493F2008EF9C2 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B4AA2EE22CB4AD6700DFADC9 /* SoundViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundViewController.swift; sourceTree = "<group>"; };
 		B4E246E22CB493F2008EF9C2 /* choqueSoundBoard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = choqueSoundBoard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4E246E52CB493F2008EF9C2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B4E246E72CB493F2008EF9C2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				B4E246E72CB493F2008EF9C2 /* SceneDelegate.swift */,
 				B4E246E92CB493F2008EF9C2 /* ViewController.swift */,
 				B4E246EB2CB493F2008EF9C2 /* Main.storyboard */,
+				B4AA2EE22CB4AD6700DFADC9 /* SoundViewController.swift */,
 				B4E246F12CB493F3008EF9C2 /* Assets.xcassets */,
 				B4E246F32CB493F3008EF9C2 /* LaunchScreen.storyboard */,
 				B4E246F62CB493F3008EF9C2 /* Info.plist */,
@@ -145,6 +148,7 @@
 				B4E246E62CB493F2008EF9C2 /* AppDelegate.swift in Sources */,
 				B4E246E82CB493F2008EF9C2 /* SceneDelegate.swift in Sources */,
 				B4E246F02CB493F2008EF9C2 /* choqueSoundBoard.xcdatamodeld in Sources */,
+				B4AA2EE32CB4AD6700DFADC9 /* SoundViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
